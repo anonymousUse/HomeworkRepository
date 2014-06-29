@@ -1,0 +1,6 @@
+C:\Users\laptop\Documents\Visual Studio 2013\Projects\_HighQualityCode\09.DevelopmentTools\T4Template\T4Template\bin\Debug\T4Template.exe.config
+C:\Users\laptop\Documents\Visual Studio 2013\Projects\_HighQualityCode\09.DevelopmentTools\T4Template\T4Template\bin\Debug\T4Template.exe
+C:\Users\laptop\Documents\Visual Studio 2013\Projects\_HighQualityCode\09.DevelopmentTools\T4Template\T4Template\bin\Debug\T4Template.pdb
+C:\Users\laptop\Documents\Visual Studio 2013\Projects\_HighQualityCode\09.DevelopmentTools\T4Template\T4Template\obj\Debug\T4Template.csprojResolveAssemblyReference.cache
+C:\Users\laptop\Documents\Visual Studio 2013\Projects\_HighQualityCode\09.DevelopmentTools\T4Template\T4Template\obj\Debug\T4Template.exe
+C:\Users\laptop\Documents\Visual Studio 2013\Projects\_HighQualityCode\09.DevelopmentTools\T4Template\T4Template\obj\Debug\T4Template.pdb
